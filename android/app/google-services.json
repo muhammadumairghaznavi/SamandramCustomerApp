@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076682469203",
+    "project_id": "samandram-ab98a",
+    "storage_bucket": "samandram-ab98a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076682469203:android:2f29bd5d220bc5e04afba6",
+        "android_client_info": {
+          "package_name": "com.samandram.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076682469203-7gqf37sgm6ahhkuclt3els0f57mnmp9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64StXAGACkpIIyNqSxkwAf4HX61keC_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076682469203-7gqf37sgm6ahhkuclt3els0f57mnmp9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
